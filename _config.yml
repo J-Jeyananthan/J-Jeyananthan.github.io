@@ -1,23 +1,23 @@
 # Basic Information 
 title: Janusan Jeyananthan
-position: MSci Student (finishing)
-affiliation: UCL
+position: Protein ML / Computational Biology
+affiliation: University College London
 email: zcbteya (at) ucl.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords:  Janusan Jeyananthan, Janu Jeyananthan, protein machine learning, UCL
+description: Personal academic website of Janusan Jeyananthan, an MSci graduate from University College London working on protein machine learning, and representation learning.
+canonical: https://j-jeyananthan.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/curriculum_vitae.pdf
-linkedin: www.linkedin.com/in/janusan-jeyananthan-a786273a7
+linkedin: https://www.linkedin.com/in/janusan-jeyananthan-a786273a7
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/Janu_Research_Portrait.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
