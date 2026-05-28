@@ -1,7 +1,6 @@
 ---
 layout: homepage
 ---
-# Janusan Jeyananthan 
 
 ## About Me
 
