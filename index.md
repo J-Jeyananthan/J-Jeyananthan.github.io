@@ -12,4 +12,4 @@ Hi, I'm Janu. I'm currently finishing my MSci Biochemistry at UCL, working in th
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
