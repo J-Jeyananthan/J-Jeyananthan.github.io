@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Janu. I'm currently finishing my MSci Biochemistry at UCL, working in the Orengo group on machine learning for proteins.
+Hi, I'm Janu. I'm currently finishing my MSci Biochemistry at UCL, working in the Orengo group on machine learning for proteins. My master's thesis was focused on scalable embedding-based approaches for protein functional family prediction using density-based clustering and contrastive learning.
 
 ## Research Interests
 
